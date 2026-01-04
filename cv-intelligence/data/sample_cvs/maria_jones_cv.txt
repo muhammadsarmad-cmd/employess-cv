@@ -1,0 +1,27 @@
+
+Maria Jones
+ML Engineer
+
+Contact:
+Email: maria.jones@email.com
+Phone: +1-527-483-5406
+
+PROFESSIONAL SUMMARY
+Experienced ML Engineer with 4+ years of experience in software development.
+Skilled in Go, Computer Vision, Kotlin, Cassandra, FastAPI and other technologies.
+
+SKILLS
+Go, Computer Vision, Kotlin, Cassandra, FastAPI, Scikit-learn, Swift, Vue.js, REST API, Microservices, TensorFlow, Redis, DynamoDB, C#, Machine Learning
+
+EXPERIENCE
+
+Site Reliability Engineer at Oracle
+2022 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+MBA
+UCLA
+Graduated: 2020

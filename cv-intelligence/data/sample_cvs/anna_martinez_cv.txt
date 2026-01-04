@@ -1,0 +1,45 @@
+
+Anna Martinez
+Backend Developer
+
+Contact:
+Email: anna.martinez@email.com
+Phone: +1-459-684-5212
+
+PROFESSIONAL SUMMARY
+Experienced Backend Developer with 11+ years of experience in software development.
+Skilled in Go, Elasticsearch, Scrum, Agile, Node.js and other technologies.
+
+SKILLS
+Go, Elasticsearch, Scrum, Agile, Node.js, System Design, Swift, Redis, React, DynamoDB, Git
+
+EXPERIENCE
+
+Staff Engineer at Meta
+2022 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Full Stack Developer at GitHub
+2019 - 2022
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Senior Software Engineer at IBM
+2016 - 2019
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Senior DevOps Engineer at IBM
+2015 - 2016
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+B.S. Computer Engineering
+MIT
+Graduated: 2013

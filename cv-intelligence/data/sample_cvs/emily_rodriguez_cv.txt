@@ -1,0 +1,45 @@
+
+Emily Rodriguez
+DevOps Engineer
+
+Contact:
+Email: emily.rodriguez@email.com
+Phone: +1-857-871-2161
+
+PROFESSIONAL SUMMARY
+Experienced DevOps Engineer with 8+ years of experience in software development.
+Skilled in Linux, Scrum, JavaScript, Cassandra, MySQL and other technologies.
+
+SKILLS
+Linux, Scrum, JavaScript, Cassandra, MySQL, GraphQL, Agile, Vue.js, PyTorch, TensorFlow, Flask, NLP, Rust
+
+EXPERIENCE
+
+DevOps Engineer at Salesforce
+2025 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Software Engineer at IBM
+2021 - 2025
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Product Engineer at Salesforce
+2019 - 2021
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Technical Lead at Microsoft
+2018 - 2019
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+M.S. Data Science
+Stanford University
+Graduated: 2017

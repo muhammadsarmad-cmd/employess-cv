@@ -1,0 +1,57 @@
+
+Jane Davis
+Technical Lead
+
+Contact:
+Email: jane.davis@email.com
+Phone: +1-235-283-8726
+
+PROFESSIONAL SUMMARY
+Experienced Technical Lead with 15+ years of experience in software development.
+Skilled in Cassandra, Agile, Ruby, Java, MongoDB and other technologies.
+
+SKILLS
+Cassandra, Agile, Ruby, Java, MongoDB, Microservices, DynamoDB, REST API, Spring Boot
+
+EXPERIENCE
+
+Frontend Developer at Amazon
+2023 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Senior Data Scientist at Netflix
+2019 - 2023
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Product Engineer at Twitter
+2017 - 2019
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+DevOps Engineer at Adobe
+2014 - 2017
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Senior Software Engineer at LinkedIn
+2013 - 2014
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+ML Engineer at Amazon
+2011 - 2013
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+MBA
+Georgia Tech
+Graduated: 2009

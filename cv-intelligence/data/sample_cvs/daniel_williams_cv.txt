@@ -1,0 +1,27 @@
+
+Daniel Williams
+Engineering Manager
+
+Contact:
+Email: daniel.williams@email.com
+Phone: +1-366-956-3717
+
+PROFESSIONAL SUMMARY
+Experienced Engineering Manager with 3+ years of experience in software development.
+Skilled in PyTorch, Spring Boot, Cassandra, REST API, C# and other technologies.
+
+SKILLS
+PyTorch, Spring Boot, Cassandra, REST API, C#, Git, Swift, Agile, Elasticsearch, Python, Heroku, Deep Learning, GitHub Actions, Docker, ArgoCD
+
+EXPERIENCE
+
+Product Engineer at Zoom
+2023 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+B.S. Computer Science
+UC Berkeley
+Graduated: 2021

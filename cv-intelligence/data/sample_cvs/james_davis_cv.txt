@@ -1,0 +1,39 @@
+
+James Davis
+Cloud Architect
+
+Contact:
+Email: james.davis@email.com
+Phone: +1-607-593-9712
+
+PROFESSIONAL SUMMARY
+Experienced Cloud Architect with 7+ years of experience in software development.
+Skilled in Vue.js, System Design, Cassandra, REST API, Flask and other technologies.
+
+SKILLS
+Vue.js, System Design, Cassandra, REST API, Flask, MySQL, GraphQL, Python, Angular, Kotlin, Java, MongoDB
+
+EXPERIENCE
+
+Senior DevOps Engineer at Amazon
+2022 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Solutions Architect at Oracle
+2020 - 2022
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Backend Developer at Airbnb
+2019 - 2020
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+M.S. Machine Learning
+University of Washington
+Graduated: 2019

@@ -1,0 +1,51 @@
+
+Sarah Martinez
+Engineering Manager
+
+Contact:
+Email: sarah.martinez@email.com
+Phone: +1-900-959-3231
+
+PROFESSIONAL SUMMARY
+Experienced Engineering Manager with 12+ years of experience in software development.
+Skilled in PyTorch, FastAPI, Go, System Design, MLOps and other technologies.
+
+SKILLS
+PyTorch, FastAPI, Go, System Design, MLOps, Cassandra, Computer Vision, PostgreSQL, TypeScript, MySQL, Kotlin, Microservices
+
+EXPERIENCE
+
+Senior DevOps Engineer at Netflix
+2025 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Site Reliability Engineer at GitHub
+2024 - 2025
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+ML Engineer at Slack
+2020 - 2024
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Product Engineer at Salesforce
+2018 - 2020
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+ML Engineer at Cisco
+2014 - 2018
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+M.S. Computer Science
+University of Washington
+Graduated: 2012

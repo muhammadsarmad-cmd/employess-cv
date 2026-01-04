@@ -1,0 +1,33 @@
+
+Robert Jones
+Platform Engineer
+
+Contact:
+Email: robert.jones@email.com
+Phone: +1-609-625-2727
+
+PROFESSIONAL SUMMARY
+Experienced Platform Engineer with 8+ years of experience in software development.
+Skilled in Scrum, Terraform, GitLab CI, Kotlin, Cassandra and other technologies.
+
+SKILLS
+Scrum, Terraform, GitLab CI, Kotlin, Cassandra, Agile, DigitalOcean, Docker, Microservices, GCP, Flask, Python, REST API
+
+EXPERIENCE
+
+Software Engineer at Airbnb
+2022 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+DevOps Engineer at Twitter
+2018 - 2022
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+M.S. Machine Learning
+Purdue University
+Graduated: 2018

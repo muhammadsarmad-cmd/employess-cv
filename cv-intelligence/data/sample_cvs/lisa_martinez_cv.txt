@@ -1,0 +1,51 @@
+
+Lisa Martinez
+Platform Engineer
+
+Contact:
+Email: lisa.martinez@email.com
+Phone: +1-570-948-4679
+
+PROFESSIONAL SUMMARY
+Experienced Platform Engineer with 8+ years of experience in software development.
+Skilled in Spring Boot, FastAPI, MLOps, Machine Learning, Scrum and other technologies.
+
+SKILLS
+Spring Boot, FastAPI, MLOps, Machine Learning, Scrum, Computer Vision, C#, GCP, MySQL, Agile, GraphQL, Terraform, ArgoCD, GitHub Actions, Deep Learning, Docker, Java
+
+EXPERIENCE
+
+Platform Engineer at Stripe
+2023 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Cloud Architect at Oracle
+2022 - 2023
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Frontend Developer at Uber
+2021 - 2022
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Full Stack Developer at Slack
+2020 - 2021
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Senior Data Scientist at Meta
+2018 - 2020
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+B.S. Software Engineering
+MIT
+Graduated: 2018

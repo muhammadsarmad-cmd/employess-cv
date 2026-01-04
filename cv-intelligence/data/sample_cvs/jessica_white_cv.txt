@@ -1,0 +1,33 @@
+
+Jessica White
+Platform Engineer
+
+Contact:
+Email: jessica.white@email.com
+Phone: +1-927-647-8252
+
+PROFESSIONAL SUMMARY
+Experienced Platform Engineer with 5+ years of experience in software development.
+Skilled in Heroku, Go, PostgreSQL, Scrum, Ansible and other technologies.
+
+SKILLS
+Heroku, Go, PostgreSQL, Scrum, Ansible, JavaScript, Kotlin, MySQL, Agile, Jenkins, MongoDB, Docker, Azure, React, REST API, C#, Git
+
+EXPERIENCE
+
+Senior DevOps Engineer at Apple
+2023 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Solutions Architect at Microsoft
+2021 - 2023
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+B.S. Software Engineering
+Georgia Tech
+Graduated: 2021

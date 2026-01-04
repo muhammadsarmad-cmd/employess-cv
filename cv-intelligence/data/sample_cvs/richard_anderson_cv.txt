@@ -1,0 +1,45 @@
+
+Richard Anderson
+Data Scientist
+
+Contact:
+Email: richard.anderson@email.com
+Phone: +1-414-790-9669
+
+PROFESSIONAL SUMMARY
+Experienced Data Scientist with 4+ years of experience in software development.
+Skilled in Swift, MySQL, System Design, NLP, JavaScript and other technologies.
+
+SKILLS
+Swift, MySQL, System Design, NLP, JavaScript, Linux, GitHub Actions, Ansible, Microservices, Django, Redis, GraphQL, PyTorch, GitLab CI, AWS, Java, Machine Learning, Cassandra, Deep Learning, Angular, ArgoCD
+
+EXPERIENCE
+
+Full Stack Developer at GitHub
+2025 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Senior DevOps Engineer at Microsoft
+2024 - 2025
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Data Scientist at Stripe
+2023 - 2024
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Data Scientist at GitHub
+2022 - 2023
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+M.S. Machine Learning
+UC Berkeley
+Graduated: 2022

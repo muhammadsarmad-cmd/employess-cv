@@ -1,0 +1,45 @@
+
+Jane Martin
+Platform Engineer
+
+Contact:
+Email: jane.martin@email.com
+Phone: +1-267-721-5667
+
+PROFESSIONAL SUMMARY
+Experienced Platform Engineer with 9+ years of experience in software development.
+Skilled in AWS, Kubernetes, Rust, Git, Django and other technologies.
+
+SKILLS
+AWS, Kubernetes, Rust, Git, Django, DigitalOcean, Agile, Redis, Python, GraphQL, Terraform, MongoDB
+
+EXPERIENCE
+
+Platform Engineer at Salesforce
+2022 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Engineering Manager at Apple
+2020 - 2022
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Software Engineer at Stripe
+2019 - 2020
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Backend Developer at Salesforce
+2017 - 2019
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+Ph.D. Computer Science
+Cornell University
+Graduated: 2015

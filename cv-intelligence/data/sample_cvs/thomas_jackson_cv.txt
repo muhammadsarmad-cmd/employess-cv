@@ -1,0 +1,51 @@
+
+Thomas Jackson
+Data Scientist
+
+Contact:
+Email: thomas.jackson@email.com
+Phone: +1-905-447-1687
+
+PROFESSIONAL SUMMARY
+Experienced Data Scientist with 7+ years of experience in software development.
+Skilled in React, Ruby, C++, C#, REST API and other technologies.
+
+SKILLS
+React, Ruby, C++, C#, REST API, .NET, Git, MySQL, JavaScript, MongoDB
+
+EXPERIENCE
+
+Solutions Architect at LinkedIn
+2024 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Data Scientist at Zoom
+2023 - 2024
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Data Scientist at Stripe
+2021 - 2023
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Senior Data Scientist at LinkedIn
+2020 - 2021
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Site Reliability Engineer at Twitter
+2019 - 2020
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+B.S. Software Engineering
+University of Washington
+Graduated: 2019

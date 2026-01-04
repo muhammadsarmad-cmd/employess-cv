@@ -1,0 +1,33 @@
+
+Jessica Jones
+Senior Data Scientist
+
+Contact:
+Email: jessica.jones@email.com
+Phone: +1-946-647-6657
+
+PROFESSIONAL SUMMARY
+Experienced Senior Data Scientist with 6+ years of experience in software development.
+Skilled in Go, Express, System Design, Machine Learning, Scrum and other technologies.
+
+SKILLS
+Go, Express, System Design, Machine Learning, Scrum, Flask, Django, PostgreSQL, Swift, Git, Agile, NLP, Kotlin, Rust
+
+EXPERIENCE
+
+Engineering Manager at Uber
+2022 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Site Reliability Engineer at Twitter
+2020 - 2022
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+Ph.D. Computer Science
+University of Washington
+Graduated: 2020

@@ -1,0 +1,39 @@
+
+Richard Brown
+Frontend Developer
+
+Contact:
+Email: richard.brown@email.com
+Phone: +1-869-861-9092
+
+PROFESSIONAL SUMMARY
+Experienced Frontend Developer with 8+ years of experience in software development.
+Skilled in Go, Scrum, JavaScript, Node.js, System Design and other technologies.
+
+SKILLS
+Go, Scrum, JavaScript, Node.js, System Design, Django, Express, Redis, REST API, C#
+
+EXPERIENCE
+
+Data Scientist at Uber
+2023 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Platform Engineer at Airbnb
+2022 - 2023
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Software Engineer at Netflix
+2018 - 2022
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+M.S. Computer Science
+Georgia Tech
+Graduated: 2016

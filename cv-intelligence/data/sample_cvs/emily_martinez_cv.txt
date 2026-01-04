@@ -1,0 +1,39 @@
+
+Emily Martinez
+ML Engineer
+
+Contact:
+Email: emily.martinez@email.com
+Phone: +1-983-550-9746
+
+PROFESSIONAL SUMMARY
+Experienced ML Engineer with 3+ years of experience in software development.
+Skilled in Linux, Go, Terraform, Kubernetes, Cassandra and other technologies.
+
+SKILLS
+Linux, Go, Terraform, Kubernetes, Cassandra, FastAPI, Scikit-learn, MongoDB, Java, Microservices, GCP, NLP
+
+EXPERIENCE
+
+Site Reliability Engineer at Twitter
+2025 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Engineering Manager at Salesforce
+2024 - 2025
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Staff Engineer at Oracle
+2023 - 2024
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+MBA
+Columbia University
+Graduated: 2022

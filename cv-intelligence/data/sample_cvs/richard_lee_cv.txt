@@ -1,0 +1,33 @@
+
+Richard Lee
+AI Engineer
+
+Contact:
+Email: richard.lee@email.com
+Phone: +1-856-429-9390
+
+PROFESSIONAL SUMMARY
+Experienced AI Engineer with 4+ years of experience in software development.
+Skilled in Computer Vision, GraphQL, Kotlin, MySQL, FastAPI and other technologies.
+
+SKILLS
+Computer Vision, GraphQL, Kotlin, MySQL, FastAPI, Deep Learning, Microservices, NLP, Express, Python, TypeScript, Machine Learning, Git
+
+EXPERIENCE
+
+Senior Data Scientist at Intel
+2024 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Platform Engineer at Meta
+2022 - 2024
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+B.S. Computer Science
+University of Washington
+Graduated: 2021

@@ -1,0 +1,57 @@
+
+Thomas Rodriguez
+DevOps Engineer
+
+Contact:
+Email: thomas.rodriguez@email.com
+Phone: +1-518-907-9671
+
+PROFESSIONAL SUMMARY
+Experienced DevOps Engineer with 12+ years of experience in software development.
+Skilled in DynamoDB, PostgreSQL, Elasticsearch, Scrum, C++ and other technologies.
+
+SKILLS
+DynamoDB, PostgreSQL, Elasticsearch, Scrum, C++, System Design, Python, TypeScript, Spring Boot, Git
+
+EXPERIENCE
+
+Backend Developer at Airbnb
+2024 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+DevOps Engineer at Uber
+2023 - 2024
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Senior DevOps Engineer at GitHub
+2022 - 2023
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Data Scientist at GitHub
+2018 - 2022
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Data Scientist at Google
+2015 - 2018
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Cloud Architect at Atlassian
+2014 - 2015
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+M.S. Data Science
+Purdue University
+Graduated: 2014

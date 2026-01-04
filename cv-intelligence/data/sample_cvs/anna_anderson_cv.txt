@@ -1,0 +1,33 @@
+
+Anna Anderson
+Senior Software Engineer
+
+Contact:
+Email: anna.anderson@email.com
+Phone: +1-551-699-3241
+
+PROFESSIONAL SUMMARY
+Experienced Senior Software Engineer with 5+ years of experience in software development.
+Skilled in Go, .NET, PostgreSQL, GitLab CI, JavaScript and other technologies.
+
+SKILLS
+Go, .NET, PostgreSQL, GitLab CI, JavaScript, Agile, MySQL, GraphQL, Jenkins, GitHub Actions, Ruby, MongoDB, Azure, Angular
+
+EXPERIENCE
+
+Engineering Manager at Adobe
+2022 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Software Engineer at Intel
+2021 - 2022
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+M.S. Computer Science
+Carnegie Mellon University
+Graduated: 2019

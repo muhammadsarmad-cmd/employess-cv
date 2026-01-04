@@ -1,0 +1,27 @@
+
+Jane Smith
+Platform Engineer
+
+Contact:
+Email: jane.smith@email.com
+Phone: +1-258-690-1762
+
+PROFESSIONAL SUMMARY
+Experienced Platform Engineer with 4+ years of experience in software development.
+Skilled in Elasticsearch, PostgreSQL, Kubernetes, Agile, System Design and other technologies.
+
+SKILLS
+Elasticsearch, PostgreSQL, Kubernetes, Agile, System Design, Vue.js, Java, PyTorch, Docker, AWS, DynamoDB, TypeScript, MLOps, Git
+
+EXPERIENCE
+
+Staff Engineer at Intel
+2022 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+B.S. Software Engineering
+Stanford University
+Graduated: 2022

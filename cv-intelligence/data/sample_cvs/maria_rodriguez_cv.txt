@@ -1,0 +1,45 @@
+
+Maria Rodriguez
+SRE
+
+Contact:
+Email: maria.rodriguez@email.com
+Phone: +1-676-623-8660
+
+PROFESSIONAL SUMMARY
+Experienced SRE with 9+ years of experience in software development.
+Skilled in Go, Kubernetes, JavaScript, GitHub Actions, C++ and other technologies.
+
+SKILLS
+Go, Kubernetes, JavaScript, GitHub Actions, C++, Jenkins, DigitalOcean, Django, Microservices, AWS, DynamoDB, REST API, C#, Git
+
+EXPERIENCE
+
+Software Engineer at GitHub
+2023 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Frontend Developer at Google
+2019 - 2023
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Senior DevOps Engineer at Salesforce
+2018 - 2019
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Full Stack Developer at Meta
+2017 - 2018
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+M.S. Data Science
+MIT
+Graduated: 2016

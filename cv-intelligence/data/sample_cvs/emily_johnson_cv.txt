@@ -1,0 +1,39 @@
+
+Emily Johnson
+Platform Engineer
+
+Contact:
+Email: emily.johnson@email.com
+Phone: +1-411-888-7561
+
+PROFESSIONAL SUMMARY
+Experienced Platform Engineer with 8+ years of experience in software development.
+Skilled in .NET, Kubernetes, GraphQL, Cassandra, GitHub Actions and other technologies.
+
+SKILLS
+.NET, Kubernetes, GraphQL, Cassandra, GitHub Actions, DigitalOcean, Ruby, REST API, GCP, Redis, DynamoDB, Spring Boot, Rust
+
+EXPERIENCE
+
+Site Reliability Engineer at VMware
+2022 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+ML Engineer at LinkedIn
+2019 - 2022
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+ML Engineer at Microsoft
+2018 - 2019
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+B.S. Computer Engineering
+University of Washington
+Graduated: 2018

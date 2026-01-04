@@ -1,0 +1,33 @@
+
+Ashley Brown
+Senior Data Scientist
+
+Contact:
+Email: ashley.brown@email.com
+Phone: +1-853-836-4689
+
+PROFESSIONAL SUMMARY
+Experienced Senior Data Scientist with 5+ years of experience in software development.
+Skilled in FastAPI, Express, System Design, Ansible, TensorFlow and other technologies.
+
+SKILLS
+FastAPI, Express, System Design, Ansible, TensorFlow, MLOps, Azure, C++, PostgreSQL, Agile, ArgoCD, Node.js, GitHub Actions, DynamoDB, Java, Rust
+
+EXPERIENCE
+
+Backend Developer at Atlassian
+2025 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Site Reliability Engineer at Microsoft
+2021 - 2025
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+B.S. Computer Science
+University of Texas at Austin
+Graduated: 2019

@@ -1,0 +1,51 @@
+
+Ashley Smith
+Data Scientist
+
+Contact:
+Email: ashley.smith@email.com
+Phone: +1-758-885-7431
+
+PROFESSIONAL SUMMARY
+Experienced Data Scientist with 9+ years of experience in software development.
+Skilled in Spring Boot, React, Go, GitLab CI, AWS and other technologies.
+
+SKILLS
+Spring Boot, React, Go, GitLab CI, AWS, MLOps, Computer Vision, REST API, Swift, TypeScript, Redis, NLP, Linux, Deep Learning, DynamoDB, Terraform, Microservices
+
+EXPERIENCE
+
+Site Reliability Engineer at Uber
+2024 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Senior Software Engineer at Amazon
+2023 - 2024
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Data Scientist at Salesforce
+2019 - 2023
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Full Stack Developer at Meta
+2018 - 2019
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Engineering Manager at Uber
+2017 - 2018
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+M.S. Computer Science
+MIT
+Graduated: 2016

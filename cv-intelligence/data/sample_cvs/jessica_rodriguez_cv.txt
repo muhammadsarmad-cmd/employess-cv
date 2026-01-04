@@ -1,0 +1,27 @@
+
+Jessica Rodriguez
+Senior Data Scientist
+
+Contact:
+Email: jessica.rodriguez@email.com
+Phone: +1-218-920-3199
+
+PROFESSIONAL SUMMARY
+Experienced Senior Data Scientist with 4+ years of experience in software development.
+Skilled in PyTorch, Spring Boot, Ansible, TensorFlow, Jenkins and other technologies.
+
+SKILLS
+PyTorch, Spring Boot, Ansible, TensorFlow, Jenkins, Computer Vision, REST API, Flask, Django, Git, Heroku, Redis, Python, Deep Learning, Docker, Kotlin, Java, Microservices
+
+EXPERIENCE
+
+Full Stack Developer at Twitter
+2022 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+MBA
+Carnegie Mellon University
+Graduated: 2021

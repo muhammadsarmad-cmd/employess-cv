@@ -1,0 +1,57 @@
+
+Michael Brown
+Technical Lead
+
+Contact:
+Email: michael.brown@email.com
+Phone: +1-675-417-5583
+
+PROFESSIONAL SUMMARY
+Experienced Technical Lead with 13+ years of experience in software development.
+Skilled in Go, REST API, Django, .NET, PostgreSQL and other technologies.
+
+SKILLS
+Go, REST API, Django, .NET, PostgreSQL, MySQL, Elasticsearch, JavaScript, Microservices
+
+EXPERIENCE
+
+Cloud Architect at Zoom
+2024 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Frontend Developer at Airbnb
+2020 - 2024
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Product Engineer at Uber
+2018 - 2020
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Platform Engineer at Shopify
+2015 - 2018
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Staff Engineer at Stripe
+2014 - 2015
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Site Reliability Engineer at Dropbox
+2013 - 2014
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+B.S. Software Engineering
+University of Texas at Austin
+Graduated: 2013

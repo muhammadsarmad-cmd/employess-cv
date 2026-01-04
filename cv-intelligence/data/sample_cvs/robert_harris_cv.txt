@@ -1,0 +1,57 @@
+
+Robert Harris
+Data Scientist
+
+Contact:
+Email: robert.harris@email.com
+Phone: +1-201-612-1071
+
+PROFESSIONAL SUMMARY
+Experienced Data Scientist with 9+ years of experience in software development.
+Skilled in .NET, JavaScript, FastAPI, System Design, AWS and other technologies.
+
+SKILLS
+.NET, JavaScript, FastAPI, System Design, AWS, DynamoDB, REST API, ArgoCD, Deep Learning, Express, Redis, Jenkins, C#, Heroku, Go, Scrum, Linux, PostgreSQL, Scikit-learn, Ruby, PyTorch, Docker, Machine Learning
+
+EXPERIENCE
+
+Senior Software Engineer at VMware
+2025 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Cloud Architect at Oracle
+2024 - 2025
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Software Engineer at Twitter
+2022 - 2024
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Full Stack Developer at Cisco
+2019 - 2022
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Platform Engineer at Cisco
+2018 - 2019
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+ML Engineer at Google
+2017 - 2018
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+M.S. Machine Learning
+UCLA
+Graduated: 2017

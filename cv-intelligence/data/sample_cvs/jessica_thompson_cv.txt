@@ -1,0 +1,63 @@
+
+Jessica Thompson
+Senior Software Engineer
+
+Contact:
+Email: jessica.thompson@email.com
+Phone: +1-480-805-2689
+
+PROFESSIONAL SUMMARY
+Experienced Senior Software Engineer with 15+ years of experience in software development.
+Skilled in Linux, GraphQL, Cassandra, Node.js, Scikit-learn and other technologies.
+
+SKILLS
+Linux, GraphQL, Cassandra, Node.js, Scikit-learn, Ruby, Vue.js, MongoDB, REST API, Microservices, TensorFlow, NLP, TypeScript, MLOps, Rust
+
+EXPERIENCE
+
+Data Scientist at Atlassian
+2025 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Frontend Developer at Intel
+2024 - 2025
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+ML Engineer at Intel
+2021 - 2024
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Platform Engineer at Shopify
+2019 - 2021
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Platform Engineer at Adobe
+2017 - 2019
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Senior Data Scientist at Adobe
+2014 - 2017
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Senior Software Engineer at Atlassian
+2011 - 2014
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+B.S. Computer Science
+Stanford University
+Graduated: 2009

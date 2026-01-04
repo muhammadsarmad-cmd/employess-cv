@@ -1,0 +1,45 @@
+
+Jessica Davis
+Engineering Manager
+
+Contact:
+Email: jessica.davis@email.com
+Phone: +1-625-405-6345
+
+PROFESSIONAL SUMMARY
+Experienced Engineering Manager with 11+ years of experience in software development.
+Skilled in Jenkins, Kubernetes, Azure, REST API, PostgreSQL and other technologies.
+
+SKILLS
+Jenkins, Kubernetes, Azure, REST API, PostgreSQL, GCP, TypeScript, Agile, JavaScript, Node.js, Docker, Java, Rust
+
+EXPERIENCE
+
+Senior DevOps Engineer at Salesforce
+2024 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Technical Lead at Uber
+2022 - 2024
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Frontend Developer at Meta
+2018 - 2022
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+DevOps Engineer at Cisco
+2015 - 2018
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+B.S. Computer Engineering
+Carnegie Mellon University
+Graduated: 2015

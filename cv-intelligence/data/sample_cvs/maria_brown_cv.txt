@@ -1,0 +1,39 @@
+
+Maria Brown
+Product Engineer
+
+Contact:
+Email: maria.brown@email.com
+Phone: +1-826-546-5988
+
+PROFESSIONAL SUMMARY
+Experienced Product Engineer with 9+ years of experience in software development.
+Skilled in FastAPI, Go, Vue.js, React, Cassandra and other technologies.
+
+SKILLS
+FastAPI, Go, Vue.js, React, Cassandra, C#, Agile, Redis, Python, GraphQL
+
+EXPERIENCE
+
+Site Reliability Engineer at Amazon
+2022 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Site Reliability Engineer at Stripe
+2019 - 2022
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Backend Developer at Dropbox
+2017 - 2019
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+M.S. Data Science
+Purdue University
+Graduated: 2017

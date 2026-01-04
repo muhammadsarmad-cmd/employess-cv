@@ -1,0 +1,51 @@
+
+Anna Brown
+Platform Engineer
+
+Contact:
+Email: anna.brown@email.com
+Phone: +1-392-424-3016
+
+PROFESSIONAL SUMMARY
+Experienced Platform Engineer with 9+ years of experience in software development.
+Skilled in PyTorch, Ruby, MLOps, Azure, C# and other technologies.
+
+SKILLS
+PyTorch, Ruby, MLOps, Azure, C#, Swift, TypeScript, Elasticsearch, Agile, Linux, Angular, ArgoCD, Deep Learning, NLP, Microservices, Terraform, MongoDB
+
+EXPERIENCE
+
+Senior DevOps Engineer at Shopify
+2024 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Site Reliability Engineer at Apple
+2022 - 2024
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Senior Data Scientist at Adobe
+2021 - 2022
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+DevOps Engineer at IBM
+2019 - 2021
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Platform Engineer at GitHub
+2017 - 2019
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+M.S. Computer Science
+University of Washington
+Graduated: 2015

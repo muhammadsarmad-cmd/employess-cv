@@ -1,0 +1,39 @@
+
+Sarah Jones
+ML Engineer
+
+Contact:
+Email: sarah.jones@email.com
+Phone: +1-665-515-9679
+
+PROFESSIONAL SUMMARY
+Experienced ML Engineer with 4+ years of experience in software development.
+Skilled in Spring Boot, FastAPI, Ruby, MLOps, Machine Learning and other technologies.
+
+SKILLS
+Spring Boot, FastAPI, Ruby, MLOps, Machine Learning, Computer Vision, Git, PostgreSQL, DigitalOcean, Swift, TypeScript, Deep Learning, JavaScript, Linux, GitHub Actions, ArgoCD, Microservices
+
+EXPERIENCE
+
+Frontend Developer at Apple
+2024 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Cloud Architect at Twitter
+2023 - 2024
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Site Reliability Engineer at Apple
+2022 - 2023
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+MBA
+UCLA
+Graduated: 2021

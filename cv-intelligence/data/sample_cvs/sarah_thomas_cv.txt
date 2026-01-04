@@ -1,0 +1,33 @@
+
+Sarah Thomas
+Platform Engineer
+
+Contact:
+Email: sarah.thomas@email.com
+Phone: +1-247-401-9954
+
+PROFESSIONAL SUMMARY
+Experienced Platform Engineer with 3+ years of experience in software development.
+Skilled in React, System Design, GitHub Actions, Scikit-learn, Machine Learning and other technologies.
+
+SKILLS
+React, System Design, GitHub Actions, Scikit-learn, Machine Learning, Cassandra, DigitalOcean, Swift, Agile, Elasticsearch, Python, GraphQL, GCP, Linux, NLP, Ansible, MongoDB
+
+EXPERIENCE
+
+Cloud Architect at Cisco
+2025 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Cloud Architect at Uber
+2023 - 2025
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+M.S. Machine Learning
+Stanford University
+Graduated: 2021

@@ -1,0 +1,39 @@
+
+Thomas Harris
+Platform Engineer
+
+Contact:
+Email: thomas.harris@email.com
+Phone: +1-409-852-6378
+
+PROFESSIONAL SUMMARY
+Experienced Platform Engineer with 8+ years of experience in software development.
+Skilled in Heroku, .NET, Terraform, GitLab CI, JavaScript and other technologies.
+
+SKILLS
+Heroku, .NET, Terraform, GitLab CI, JavaScript, MySQL, ArgoCD, Scikit-learn, Swift, Microservices, NLP, Express, Computer Vision, REST API, C#
+
+EXPERIENCE
+
+Software Engineer at Atlassian
+2024 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Solutions Architect at Adobe
+2020 - 2024
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Senior Data Scientist at Slack
+2018 - 2020
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+Ph.D. Computer Science
+Stanford University
+Graduated: 2017

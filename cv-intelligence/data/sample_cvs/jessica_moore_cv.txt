@@ -1,0 +1,45 @@
+
+Jessica Moore
+Senior DevOps Engineer
+
+Contact:
+Email: jessica.moore@email.com
+Phone: +1-541-266-5492
+
+PROFESSIONAL SUMMARY
+Experienced Senior DevOps Engineer with 11+ years of experience in software development.
+Skilled in Linux, Go, Scrum, Terraform, Kubernetes and other technologies.
+
+SKILLS
+Linux, Go, Scrum, Terraform, Kubernetes, Ansible, GraphQL, Agile, Node.js, Java, GCP, DynamoDB
+
+EXPERIENCE
+
+Cloud Architect at Cisco
+2023 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Senior Software Engineer at Adobe
+2021 - 2023
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Staff Engineer at Amazon
+2018 - 2021
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+ML Engineer at Intel
+2015 - 2018
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+Ph.D. Computer Science
+UC Berkeley
+Graduated: 2014

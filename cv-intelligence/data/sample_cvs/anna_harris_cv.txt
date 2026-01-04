@@ -1,0 +1,39 @@
+
+Anna Harris
+Platform Engineer
+
+Contact:
+Email: anna.harris@email.com
+Phone: +1-377-696-6051
+
+PROFESSIONAL SUMMARY
+Experienced Platform Engineer with 6+ years of experience in software development.
+Skilled in React, Elasticsearch, Kotlin, Terraform, C++ and other technologies.
+
+SKILLS
+React, Elasticsearch, Kotlin, Terraform, C++, Flask, JavaScript, Linux, Vue.js, Git, GCP, Heroku, Redis, GraphQL, Jenkins, GitLab CI, Ruby, PostgreSQL, ArgoCD
+
+EXPERIENCE
+
+Full Stack Developer at Google
+2023 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Frontend Developer at GitHub
+2022 - 2023
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Platform Engineer at Google
+2020 - 2022
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+M.S. Machine Learning
+University of Texas at Austin
+Graduated: 2020

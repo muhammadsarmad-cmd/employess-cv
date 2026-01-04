@@ -1,0 +1,45 @@
+
+Ashley White
+Data Scientist
+
+Contact:
+Email: ashley.white@email.com
+Phone: +1-451-531-6226
+
+PROFESSIONAL SUMMARY
+Experienced Data Scientist with 9+ years of experience in software development.
+Skilled in React, Go, MongoDB, Machine Learning, Git and other technologies.
+
+SKILLS
+React, Go, MongoDB, Machine Learning, Git, NLP, MySQL, GraphQL, Agile, Deep Learning, Angular, DynamoDB, Java, Rust
+
+EXPERIENCE
+
+Senior DevOps Engineer at Slack
+2024 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Product Engineer at Zoom
+2022 - 2024
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Platform Engineer at Shopify
+2021 - 2022
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Technical Lead at Amazon
+2017 - 2021
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+Ph.D. Computer Science
+Georgia Tech
+Graduated: 2016

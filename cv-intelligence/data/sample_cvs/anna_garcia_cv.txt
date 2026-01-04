@@ -1,0 +1,39 @@
+
+Anna Garcia
+ML Engineer
+
+Contact:
+Email: anna.garcia@email.com
+Phone: +1-812-642-1094
+
+PROFESSIONAL SUMMARY
+Experienced ML Engineer with 11+ years of experience in software development.
+Skilled in Go, Ruby, System Design, AWS, Jenkins and other technologies.
+
+SKILLS
+Go, Ruby, System Design, AWS, Jenkins, REST API, PostgreSQL, .NET, GCP, TypeScript, MySQL, Agile, ArgoCD, Angular, Java, Microservices
+
+EXPERIENCE
+
+Site Reliability Engineer at Twitter
+2023 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Site Reliability Engineer at Dropbox
+2019 - 2023
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Site Reliability Engineer at Microsoft
+2015 - 2019
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+B.S. Software Engineering
+UCLA
+Graduated: 2013

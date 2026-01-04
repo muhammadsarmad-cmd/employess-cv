@@ -1,0 +1,57 @@
+
+Christopher Johnson
+Technical Lead
+
+Contact:
+Email: christopher.johnson@email.com
+Phone: +1-286-559-6326
+
+PROFESSIONAL SUMMARY
+Experienced Technical Lead with 14+ years of experience in software development.
+Skilled in Spring Boot, Cassandra, C++, Flask, REST API and other technologies.
+
+SKILLS
+Spring Boot, Cassandra, C++, Flask, REST API, GCP, Agile, Microservices, Linux, GitHub Actions, DynamoDB, Docker, Kotlin, Terraform, Rust
+
+EXPERIENCE
+
+Frontend Developer at IBM
+2024 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Senior Software Engineer at Netflix
+2020 - 2024
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Senior Software Engineer at Shopify
+2019 - 2020
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Data Scientist at IBM
+2017 - 2019
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+DevOps Engineer at VMware
+2016 - 2017
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+ML Engineer at VMware
+2012 - 2016
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+B.S. Computer Science
+Carnegie Mellon University
+Graduated: 2010

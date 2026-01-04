@@ -1,0 +1,45 @@
+
+Robert Johnson
+SRE
+
+Contact:
+Email: robert.johnson@email.com
+Phone: +1-288-438-1608
+
+PROFESSIONAL SUMMARY
+Experienced SRE with 10+ years of experience in software development.
+Skilled in Ansible, Kubernetes, Kotlin, MySQL, FastAPI and other technologies.
+
+SKILLS
+Ansible, Kubernetes, Kotlin, MySQL, FastAPI, System Design, Ruby, Flask, Express, Redis, TypeScript, AWS, MLOps, NLP, Git
+
+EXPERIENCE
+
+Site Reliability Engineer at Salesforce
+2022 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Senior DevOps Engineer at Google
+2021 - 2022
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Data Scientist at Atlassian
+2017 - 2021
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+ML Engineer at Oracle
+2016 - 2017
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+B.S. Software Engineering
+Purdue University
+Graduated: 2015

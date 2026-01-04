@@ -1,0 +1,45 @@
+
+Anna Johnson
+DevOps Engineer
+
+Contact:
+Email: anna.johnson@email.com
+Phone: +1-301-361-4977
+
+PROFESSIONAL SUMMARY
+Experienced DevOps Engineer with 8+ years of experience in software development.
+Skilled in FastAPI, Scikit-learn, MLOps, Cassandra, REST API and other technologies.
+
+SKILLS
+FastAPI, Scikit-learn, MLOps, Cassandra, REST API, C#, PostgreSQL, Swift, Agile, Heroku, Terraform, GCP, Deep Learning, Docker, ArgoCD, Microservices
+
+EXPERIENCE
+
+Technical Lead at Atlassian
+2024 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+DevOps Engineer at Stripe
+2021 - 2024
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Solutions Architect at Atlassian
+2020 - 2021
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Staff Engineer at VMware
+2018 - 2020
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+M.S. Data Science
+Carnegie Mellon University
+Graduated: 2018

@@ -1,0 +1,39 @@
+
+Jessica Harris
+Software Engineer
+
+Contact:
+Email: jessica.harris@email.com
+Phone: +1-312-748-3693
+
+PROFESSIONAL SUMMARY
+Experienced Software Engineer with 6+ years of experience in software development.
+Skilled in Linux, PostgreSQL, Scrum, JavaScript, Kotlin and other technologies.
+
+SKILLS
+Linux, PostgreSQL, Scrum, JavaScript, Kotlin, MySQL, Node.js, FastAPI, GraphQL, Ruby, Java, Agile, Flask, DynamoDB
+
+EXPERIENCE
+
+Senior DevOps Engineer at Intel
+2022 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Platform Engineer at Salesforce
+2021 - 2022
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Senior Software Engineer at VMware
+2020 - 2021
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+B.S. Software Engineering
+Columbia University
+Graduated: 2018

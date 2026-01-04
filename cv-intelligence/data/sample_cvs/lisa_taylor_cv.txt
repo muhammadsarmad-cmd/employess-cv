@@ -1,0 +1,27 @@
+
+Lisa Taylor
+Data Scientist
+
+Contact:
+Email: lisa.taylor@email.com
+Phone: +1-464-859-8881
+
+PROFESSIONAL SUMMARY
+Experienced Data Scientist with 3+ years of experience in software development.
+Skilled in Go, .NET, Scrum, Kotlin, C++ and other technologies.
+
+SKILLS
+Go, .NET, Scrum, Kotlin, C++, MySQL, PyTorch, REST API, Microservices, Redis, TypeScript, Machine Learning, Git
+
+EXPERIENCE
+
+ML Engineer at Shopify
+2023 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+B.S. Software Engineering
+Georgia Tech
+Graduated: 2023

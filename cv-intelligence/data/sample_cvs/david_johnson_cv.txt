@@ -1,0 +1,45 @@
+
+David Johnson
+Product Engineer
+
+Contact:
+Email: david.johnson@email.com
+Phone: +1-628-661-8986
+
+PROFESSIONAL SUMMARY
+Experienced Product Engineer with 9+ years of experience in software development.
+Skilled in PyTorch, React, Jenkins, Scikit-learn, Kubernetes and other technologies.
+
+SKILLS
+PyTorch, React, Jenkins, Scikit-learn, Kubernetes, Machine Learning, Scrum, Computer Vision, Flask, DigitalOcean, Agile, Redis, Elasticsearch, Linux, Ansible, Java, Rust
+
+EXPERIENCE
+
+Staff Engineer at Microsoft
+2022 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Product Engineer at Salesforce
+2019 - 2022
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+DevOps Engineer at Apple
+2018 - 2019
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+DevOps Engineer at Apple
+2017 - 2018
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+MBA
+Stanford University
+Graduated: 2016

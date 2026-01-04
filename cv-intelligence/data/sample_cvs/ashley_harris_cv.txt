@@ -1,0 +1,39 @@
+
+Ashley Harris
+ML Engineer
+
+Contact:
+Email: ashley.harris@email.com
+Phone: +1-276-963-2805
+
+PROFESSIONAL SUMMARY
+Experienced ML Engineer with 5+ years of experience in software development.
+Skilled in Linux, PostgreSQL, GitLab CI, JavaScript, Agile and other technologies.
+
+SKILLS
+Linux, PostgreSQL, GitLab CI, JavaScript, Agile, C++, FastAPI, System Design, ArgoCD, Deep Learning, Docker, Azure, AWS, NLP, MLOps, Machine Learning, Rust
+
+EXPERIENCE
+
+Product Engineer at Oracle
+2024 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Data Scientist at Uber
+2022 - 2024
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+ML Engineer at Shopify
+2021 - 2022
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+Ph.D. Computer Science
+Cornell University
+Graduated: 2019

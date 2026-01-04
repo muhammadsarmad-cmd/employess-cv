@@ -1,0 +1,45 @@
+
+James Thomas
+ML Engineer
+
+Contact:
+Email: james.thomas@email.com
+Phone: +1-715-603-5181
+
+PROFESSIONAL SUMMARY
+Experienced ML Engineer with 8+ years of experience in software development.
+Skilled in Computer Vision, Agile, Angular, System Design, MongoDB and other technologies.
+
+SKILLS
+Computer Vision, Agile, Angular, System Design, MongoDB, Java, Deep Learning, TensorFlow, Python, REST API, C#, Git
+
+EXPERIENCE
+
+Data Scientist at Salesforce
+2025 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Senior DevOps Engineer at Google
+2021 - 2025
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Solutions Architect at Apple
+2020 - 2021
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Engineering Manager at Adobe
+2018 - 2020
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+B.S. Software Engineering
+MIT
+Graduated: 2016

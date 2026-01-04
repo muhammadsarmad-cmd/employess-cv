@@ -1,0 +1,33 @@
+
+Richard Davis
+Platform Engineer
+
+Contact:
+Email: richard.davis@email.com
+Phone: +1-689-727-2237
+
+PROFESSIONAL SUMMARY
+Experienced Platform Engineer with 4+ years of experience in software development.
+Skilled in PyTorch, FastAPI, Go, Ruby, Express and other technologies.
+
+SKILLS
+PyTorch, FastAPI, Go, Ruby, Express, System Design, TensorFlow, PostgreSQL, Swift, Agile, Redis, GraphQL, Node.js, Linux, MongoDB, Rust
+
+EXPERIENCE
+
+Site Reliability Engineer at Slack
+2025 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Cloud Architect at Oracle
+2022 - 2025
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+M.S. Data Science
+Columbia University
+Graduated: 2021

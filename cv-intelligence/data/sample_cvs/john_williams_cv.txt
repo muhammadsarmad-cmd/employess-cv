@@ -1,0 +1,39 @@
+
+John Williams
+Senior DevOps Engineer
+
+Contact:
+Email: john.williams@email.com
+Phone: +1-705-272-9004
+
+PROFESSIONAL SUMMARY
+Experienced Senior DevOps Engineer with 3+ years of experience in software development.
+Skilled in Agile, Swift, MongoDB, Spring Boot, Angular and other technologies.
+
+SKILLS
+Agile, Swift, MongoDB, Spring Boot, Angular, MLOps, DigitalOcean, ArgoCD, Deep Learning, Microservices, Ansible, Cassandra, TensorFlow, Git, Linux, Ruby, PyTorch, Docker, GCP, TypeScript
+
+EXPERIENCE
+
+Cloud Architect at Atlassian
+2025 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Frontend Developer at Salesforce
+2024 - 2025
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Full Stack Developer at Dropbox
+2023 - 2024
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+M.S. Machine Learning
+Columbia University
+Graduated: 2023

@@ -1,0 +1,28 @@
+# Core RAG
+langchain>=0.3.0
+langchain-openai>=0.2.0
+langchain-qdrant>=0.2.0
+langchain-community>=0.3.0
+langchain-text-splitters>=0.3.0
+
+# Vector Database
+qdrant-client>=1.12.0
+
+# Document Processing
+pypdf>=5.0.0
+python-docx>=1.1.0
+pdf2image>=1.17.0
+pytesseract>=0.3.10
+unstructured>=0.16.0
+pillow>=10.0.0
+
+# Web Interface
+streamlit>=1.40.0
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+pandas>=2.2.0
+
+# For sparse embeddings (hybrid search)
+fastembed>=0.4.0

@@ -1,0 +1,51 @@
+
+James Martinez
+Staff Engineer
+
+Contact:
+Email: james.martinez@email.com
+Phone: +1-537-281-6428
+
+PROFESSIONAL SUMMARY
+Experienced Staff Engineer with 14+ years of experience in software development.
+Skilled in Linux, Go, PostgreSQL, Elasticsearch, Scrum and other technologies.
+
+SKILLS
+Linux, Go, PostgreSQL, Elasticsearch, Scrum, Node.js, Java, Deep Learning, Redis, Flask, Express, Python, NLP, C#, Machine Learning
+
+EXPERIENCE
+
+Site Reliability Engineer at Shopify
+2022 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Technical Lead at Atlassian
+2018 - 2022
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Backend Developer at Amazon
+2017 - 2018
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Full Stack Developer at Apple
+2014 - 2017
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Technical Lead at Slack
+2012 - 2014
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+MBA
+Stanford University
+Graduated: 2011

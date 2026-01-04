@@ -1,0 +1,57 @@
+
+Sarah Garcia
+Technical Lead
+
+Contact:
+Email: sarah.garcia@email.com
+Phone: +1-359-965-9197
+
+PROFESSIONAL SUMMARY
+Experienced Technical Lead with 14+ years of experience in software development.
+Skilled in Linux, Ansible, PostgreSQL, GitLab CI, FastAPI and other technologies.
+
+SKILLS
+Linux, Ansible, PostgreSQL, GitLab CI, FastAPI, System Design, ArgoCD, Java, Docker, Azure, Microservices, GCP, Flask, Python, Spring Boot
+
+EXPERIENCE
+
+Technical Lead at Airbnb
+2023 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Technical Lead at Salesforce
+2022 - 2023
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Senior Data Scientist at Adobe
+2018 - 2022
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Senior DevOps Engineer at Twitter
+2015 - 2018
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Cloud Architect at Meta
+2014 - 2015
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Senior DevOps Engineer at Dropbox
+2012 - 2014
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+M.S. Machine Learning
+Columbia University
+Graduated: 2010

@@ -1,0 +1,51 @@
+
+Michael Thomas
+Senior Software Engineer
+
+Contact:
+Email: michael.thomas@email.com
+Phone: +1-451-501-8409
+
+PROFESSIONAL SUMMARY
+Experienced Senior Software Engineer with 8+ years of experience in software development.
+Skilled in Linux, Ansible, PostgreSQL, JavaScript, GraphQL and other technologies.
+
+SKILLS
+Linux, Ansible, PostgreSQL, JavaScript, GraphQL, GitHub Actions, Azure, Microservices, Express, DynamoDB, C#, Rust
+
+EXPERIENCE
+
+DevOps Engineer at Airbnb
+2023 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+DevOps Engineer at Shopify
+2021 - 2023
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Frontend Developer at Dropbox
+2020 - 2021
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+ML Engineer at Stripe
+2019 - 2020
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Product Engineer at Netflix
+2018 - 2019
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+B.S. Computer Science
+University of Washington
+Graduated: 2017

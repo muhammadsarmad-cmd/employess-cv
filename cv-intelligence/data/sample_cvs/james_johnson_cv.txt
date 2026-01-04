@@ -1,0 +1,33 @@
+
+James Johnson
+SRE
+
+Contact:
+Email: james.johnson@email.com
+Phone: +1-810-579-5643
+
+PROFESSIONAL SUMMARY
+Experienced SRE with 5+ years of experience in software development.
+Skilled in Spring Boot, System Design, AWS, Jenkins, Kubernetes and other technologies.
+
+SKILLS
+Spring Boot, System Design, AWS, Jenkins, Kubernetes, Azure, Scrum, C#, Elasticsearch, Python, Linux, Angular, GitHub Actions, Ansible, Java, Microservices
+
+EXPERIENCE
+
+Site Reliability Engineer at VMware
+2024 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Frontend Developer at Netflix
+2021 - 2024
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+M.S. Data Science
+Columbia University
+Graduated: 2020

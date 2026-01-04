@@ -1,0 +1,39 @@
+
+Maria White
+Data Scientist
+
+Contact:
+Email: maria.white@email.com
+Phone: +1-361-320-5298
+
+PROFESSIONAL SUMMARY
+Experienced Data Scientist with 9+ years of experience in software development.
+Skilled in Heroku, .NET, Elasticsearch, GitLab CI, JavaScript and other technologies.
+
+SKILLS
+Heroku, .NET, Elasticsearch, GitLab CI, JavaScript, GraphQL, MySQL, Agile, GitHub Actions, System Design, ArgoCD, DigitalOcean, PyTorch, Docker, React, Machine Learning, Rust
+
+EXPERIENCE
+
+Cloud Architect at Meta
+2022 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Engineering Manager at Google
+2019 - 2022
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Engineering Manager at VMware
+2017 - 2019
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+B.S. Software Engineering
+Purdue University
+Graduated: 2016

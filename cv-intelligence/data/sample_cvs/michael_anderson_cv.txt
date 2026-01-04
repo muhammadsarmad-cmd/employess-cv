@@ -1,0 +1,45 @@
+
+Michael Anderson
+SRE
+
+Contact:
+Email: michael.anderson@email.com
+Phone: +1-559-527-2148
+
+PROFESSIONAL SUMMARY
+Experienced SRE with 9+ years of experience in software development.
+Skilled in Vue.js, System Design, Kubernetes, .NET, Swift and other technologies.
+
+SKILLS
+Vue.js, System Design, Kubernetes, .NET, Swift, Agile, Redis, Elasticsearch, Node.js, Heroku, Kotlin, Jenkins, Rust
+
+EXPERIENCE
+
+Engineering Manager at IBM
+2023 - Present
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+DevOps Engineer at Apple
+2021 - 2023
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Senior DevOps Engineer at Apple
+2018 - 2021
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+Data Scientist at Apple
+2017 - 2018
+- Developed and maintained software applications
+- Collaborated with cross-functional teams
+- Implemented best practices and coding standards
+
+EDUCATION
+Ph.D. Computer Science
+Columbia University
+Graduated: 2016
