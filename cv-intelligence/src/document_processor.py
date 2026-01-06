@@ -2,7 +2,7 @@
 
 import os
 from pathlib import Path
-from typing import List, Optional
+from typing import List, Optional, Iterator
 from tqdm import tqdm
 
 from langchain_core.documents import Document
@@ -20,13 +20,18 @@ from .metadata_extractor import extract_cv_metadata
 
 
 class CVDocumentProcessor:
-    """Process CV documents from various formats."""
+    """Process CV documents from various formats.
+
+    Supports both batch loading (prototype) and streaming (production).
+    """
 
     def __init__(
         self,
+        data_dir: Optional[Path] = None,
         chunk_size: int = CHUNK_SIZE,
         chunk_overlap: int = CHUNK_OVERLAP
     ):
+        self.data_dir = Path(data_dir) if data_dir else None
         self.chunk_size = chunk_size
         self.chunk_overlap = chunk_overlap
         self.text_splitter = RecursiveCharacterTextSplitter(
@@ -143,6 +148,127 @@ class CVDocumentProcessor:
         documents = self.load_directory(directory)
         chunks = self.process_documents(documents, extract_metadata)
         return chunks
+
+    # === NEW METHODS FOR STREAMING/BATCH PROCESSING ===
+
+    def iter_files(self, directory: Optional[Path] = None) -> Iterator[Path]:
+        """Iterate over files without loading into memory.
+
+        Args:
+            directory: Directory to scan (uses self.data_dir if None)
+
+        Yields:
+            Path objects for each supported file
+        """
+        scan_dir = Path(directory) if directory else self.data_dir
+        if not scan_dir:
+            raise ValueError("No directory specified")
+
+        for ext in SUPPORTED_EXTENSIONS.keys():
+            for file_path in scan_dir.rglob(f"*{ext}"):
+                if file_path.is_file():
+                    yield file_path
+
+    def count_files(self, directory: Optional[Path] = None) -> int:
+        """Count total files to process.
+
+        Args:
+            directory: Directory to scan (uses self.data_dir if None)
+
+        Returns:
+            Number of supported files found
+        """
+        return sum(1 for _ in self.iter_files(directory))
+
+    def _load_file(self, file_path: Path) -> List[Document]:
+        """Internal method to load a single file.
+
+        Args:
+            file_path: Path to the file
+
+        Returns:
+            List of documents (usually 1, but PDFs may have multiple pages)
+        """
+        return self.load_single_document(str(file_path))
+
+    def chunk_documents(self, documents: List[Document]) -> List[Document]:
+        """Split documents into chunks.
+
+        Args:
+            documents: List of documents to chunk
+
+        Returns:
+            List of chunked documents
+        """
+        chunks = self.text_splitter.split_documents(documents)
+
+        # Add chunk index
+        for i, chunk in enumerate(chunks):
+            chunk.metadata["chunk_index"] = i
+
+        return chunks
+
+    def process_file(
+        self,
+        file_path: Path,
+        extract_metadata: bool = True
+    ) -> List[Document]:
+        """Process a single file and return chunks.
+
+        Args:
+            file_path: Path to the file
+            extract_metadata: Whether to extract CV metadata
+
+        Returns:
+            List of document chunks
+        """
+        try:
+            # Load document
+            documents = self._load_file(file_path)
+
+            if not documents:
+                return []
+
+            # Extract metadata if requested
+            if extract_metadata:
+                full_text = "\n\n".join(doc.page_content for doc in documents)
+                cv_metadata = extract_cv_metadata(full_text)
+
+                # Apply metadata to all documents
+                for doc in documents:
+                    doc.metadata.update(cv_metadata)
+
+            # Chunk documents
+            chunks = self.chunk_documents(documents)
+
+            return chunks
+
+        except Exception as e:
+            print(f"Error processing {file_path}: {e}")
+            return []
+
+    def iter_batches(
+        self,
+        batch_size: int = 50,
+        directory: Optional[Path] = None
+    ) -> Iterator[List[Path]]:
+        """Yield batches of file paths.
+
+        Args:
+            batch_size: Number of files per batch
+            directory: Directory to scan (uses self.data_dir if None)
+
+        Yields:
+            Lists of Path objects
+        """
+        batch = []
+        for file_path in self.iter_files(directory):
+            batch.append(file_path)
+            if len(batch) >= batch_size:
+                yield batch
+                batch = []
+        if batch:
+            yield batch
 
 
 # Convenience function

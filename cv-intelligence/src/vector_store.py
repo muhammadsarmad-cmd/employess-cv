@@ -2,6 +2,8 @@
 
 from typing import List, Optional, Dict, Any
 from pathlib import Path
+import uuid
+import logging
 
 from langchain_core.documents import Document
 from langchain_openai import OpenAIEmbeddings
@@ -9,13 +11,16 @@ from langchain_qdrant import QdrantVectorStore
 from qdrant_client import QdrantClient
 from qdrant_client.models import (
     Distance, VectorParams, Filter, FieldCondition,
-    MatchValue, Range
+    MatchValue, Range, PointStruct, OptimizersConfigDiff,
+    HnswConfigDiff
 )
 
 from .config import (
     OPENAI_API_KEY, EMBEDDING_MODEL, QDRANT_URL,
-    QDRANT_COLLECTION, USE_LOCAL_QDRANT
+    QDRANT_COLLECTION, QDRANT_API_KEY, USE_LOCAL_QDRANT
 )
+
+logger = logging.getLogger(__name__)
 
 
 class CVVectorStore:
@@ -25,23 +30,32 @@ class CVVectorStore:
         self,
         collection_name: str = QDRANT_COLLECTION,
         use_local: bool = USE_LOCAL_QDRANT,
-        qdrant_url: str = QDRANT_URL
+        qdrant_url: str = QDRANT_URL,
+        api_key: Optional[str] = QDRANT_API_KEY
     ):
         self.collection_name = collection_name
         self.use_local = use_local
         self.qdrant_url = qdrant_url
 
-        # Initialize embeddings
-        self.embeddings = OpenAIEmbeddings(
-            model=EMBEDDING_MODEL,
-            openai_api_key=OPENAI_API_KEY
-        )
+        # Initialize embeddings (for backward compatibility)
+        self.embeddings = None
+        if OPENAI_API_KEY:
+            self.embeddings = OpenAIEmbeddings(
+                model=EMBEDDING_MODEL,
+                openai_api_key=OPENAI_API_KEY
+            )
 
         # Initialize Qdrant client (shared instance)
         if use_local:
             self.client = QdrantClient(location=":memory:")
+            logger.info("Using in-memory Qdrant (for testing only)")
         else:
-            self.client = QdrantClient(url=qdrant_url)
+            self.client = QdrantClient(
+                url=qdrant_url,
+                api_key=api_key if api_key else None,
+                timeout=60  # Increase timeout for large operations
+            )
+            logger.info(f"Connected to Qdrant at {qdrant_url}")
 
         self.vectorstore: Optional[QdrantVectorStore] = None
 
@@ -193,6 +207,178 @@ class CVVectorStore:
                 "points_count": info.points_count,
                 "vectors_count": info.vectors_count,
                 "status": info.status
+            }
+        except Exception as e:
+            return {"error": str(e)}
+
+    # === NEW METHODS FOR SCALED ARCHITECTURE ===
+
+    def create_collection_optimized(
+        self,
+        vector_size: int,
+        shard_number: int = 1,
+        replication_factor: int = 1,
+        on_disk: bool = False
+    ):
+        """Create collection optimized for large scale.
+
+        Args:
+            vector_size: Embedding dimension (384 for MiniLM, 1024 for BGE-large)
+            shard_number: Number of shards (1 for laptop, 3+ for cluster)
+            replication_factor: Replication factor (1 for laptop, 2+ for HA)
+            on_disk: Store vectors on disk (True for large datasets)
+        """
+        # Delete if exists
+        try:
+            self.client.delete_collection(self.collection_name)
+            logger.info(f"Deleted existing collection '{self.collection_name}'")
+        except Exception:
+            pass
+
+        # Optimize based on scale
+        if on_disk or shard_number > 1:
+            # Large scale configuration
+            self.client.create_collection(
+                collection_name=self.collection_name,
+                vectors_config=VectorParams(
+                    size=vector_size,
+                    distance=Distance.COSINE,
+                    on_disk=on_disk
+                ),
+                shard_number=shard_number,
+                replication_factor=replication_factor,
+                optimizers_config=OptimizersConfigDiff(
+                    indexing_threshold=50000,  # Build index after 50k points
+                    memmap_threshold=100000    # Use mmap after 100k points
+                ),
+                hnsw_config=HnswConfigDiff(
+                    m=16,              # Connections per node
+                    ef_construct=100,  # Build quality
+                    on_disk=on_disk    # Store HNSW index on disk
+                )
+            )
+        else:
+            # Laptop/testing configuration
+            self.client.create_collection(
+                collection_name=self.collection_name,
+                vectors_config=VectorParams(
+                    size=vector_size,
+                    distance=Distance.COSINE,
+                    on_disk=False
+                )
+            )
+
+        logger.info(f"Created optimized collection '{self.collection_name}' "
+                   f"(dim={vector_size}, shards={shard_number}, on_disk={on_disk})")
+
+    def add_documents_with_embeddings(
+        self,
+        documents: List[Document],
+        embeddings: List[List[float]],
+        batch_size: int = 100
+    ) -> List[str]:
+        """Add documents with pre-computed embeddings in batches.
+
+        Args:
+            documents: List of LangChain documents
+            embeddings: Pre-computed embedding vectors
+            batch_size: Batch size for uploads
+
+        Returns:
+            List of vector IDs
+        """
+        if len(documents) != len(embeddings):
+            raise ValueError(f"Documents ({len(documents)}) and embeddings ({len(embeddings)}) count mismatch")
+
+        vector_ids = []
+        points = []
+
+        for doc, embedding in zip(documents, embeddings):
+            point_id = str(uuid.uuid4())
+            vector_ids.append(point_id)
+
+            points.append(PointStruct(
+                id=point_id,
+                vector=embedding,
+                payload={
+                    "content": doc.page_content,
+                    **doc.metadata
+                }
+            ))
+
+            # Upload in batches
+            if len(points) >= batch_size:
+                self.client.upsert(
+                    collection_name=self.collection_name,
+                    points=points,
+                    wait=False  # Async for better throughput
+                )
+                points = []
+
+        # Upload remaining
+        if points:
+            self.client.upsert(
+                collection_name=self.collection_name,
+                points=points,
+                wait=True  # Wait for last batch
+            )
+
+        logger.info(f"Added {len(vector_ids)} documents to collection")
+        return vector_ids
+
+    def search_with_embedding(
+        self,
+        query_embedding: List[float],
+        k: int = 10,
+        filter_dict: Optional[Dict[str, Any]] = None
+    ) -> List[Dict[str, Any]]:
+        """Search using pre-computed query embedding.
+
+        Args:
+            query_embedding: Pre-computed query embedding vector
+            k: Number of results to return
+            filter_dict: Optional metadata filters
+
+        Returns:
+            List of search results with scores
+        """
+        qdrant_filter = self._build_filter(filter_dict) if filter_dict else None
+
+        results = self.client.search(
+            collection_name=self.collection_name,
+            query_vector=query_embedding,
+            limit=k,
+            query_filter=qdrant_filter,
+            with_payload=True
+        )
+
+        return [
+            {
+                "id": hit.id,
+                "score": hit.score,
+                "content": hit.payload.get("content", ""),
+                "metadata": {k: v for k, v in hit.payload.items() if k != "content"}
+            }
+            for hit in results
+        ]
+
+    def get_collection_stats(self) -> Dict[str, Any]:
+        """Get detailed collection statistics.
+
+        Returns:
+            Dictionary with collection stats
+        """
+        try:
+            info = self.client.get_collection(self.collection_name)
+            return {
+                "name": self.collection_name,
+                "points_count": info.points_count,
+                "vectors_count": info.vectors_count,
+                "indexed_vectors_count": info.indexed_vectors_count,
+                "status": info.status.value,
+                "segments_count": len(info.segments) if info.segments else 0,
+                "disk_data_size": getattr(info, 'disk_data_size', None),
+                "ram_data_size": getattr(info, 'ram_data_size', None)
             }
         except Exception as e:
             return {"error": str(e)}
