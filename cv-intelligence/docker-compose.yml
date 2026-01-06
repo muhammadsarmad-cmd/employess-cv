@@ -43,12 +43,12 @@ services:
       - "6334:6334"  # gRPC API (optional, for better performance)
     volumes:
       - qdrant_storage:/qdrant/storage
-    environment:
+    environment: {}
       # Optional: Uncomment to enable API key authentication
-      # - QDRANT__SERVICE__API_KEY=${QDRANT_API_KEY:-}
+      # QDRANT__SERVICE__API_KEY=${QDRANT_API_KEY:-}
 
       # Performance tuning (optional)
-      # - QDRANT__STORAGE__ON_DISK_PAYLOAD=true
+      # QDRANT__STORAGE__ON_DISK_PAYLOAD=true
     healthcheck:
       test: ["CMD", "curl", "-f", "http://localhost:6333/health"]
       interval: 30s

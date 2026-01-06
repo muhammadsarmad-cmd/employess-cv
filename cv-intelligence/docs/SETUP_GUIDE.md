@@ -45,7 +45,7 @@ pip install -r requirements.txt
 ```bash
 # Start Redis and Qdrant
 docker-compose up -d
-
+docker compose up -d
 # Verify services are running
 docker-compose ps
 
