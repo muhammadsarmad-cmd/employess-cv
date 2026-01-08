@@ -17,8 +17,7 @@ import uuid
 
 from .config import (
     REDIS_URL, QDRANT_URL, QDRANT_API_KEY, QDRANT_COLLECTION,
-    CHUNK_SIZE, CHUNK_OVERLAP, USE_LOCAL_EMBEDDINGS,
-    OPENAI_API_KEY, EMBEDDING_MODEL
+    CHUNK_SIZE, CHUNK_OVERLAP
 )
 from .job_queue import JobQueue
 from .document_processor import CVDocumentProcessor
@@ -69,26 +68,14 @@ class IngestionWorker:
             logger.error(f"Failed to connect to Qdrant: {e}")
             raise
 
-        # Initialize embedding service
-        if USE_LOCAL_EMBEDDINGS:
-            try:
-                self.embedding_service = LocalEmbeddingService()
-                self.embedding_dim = self.embedding_service.get_dimension()
-                logger.info(f"Using local embeddings (dim={self.embedding_dim})")
-            except Exception as e:
-                logger.error(f"Failed to initialize local embeddings: {e}")
-                raise
-        else:
-            # Use OpenAI embeddings
-            from langchain_openai import OpenAIEmbeddings
-            self.embedding_service = OpenAIEmbeddings(
-                model=EMBEDDING_MODEL,
-                openai_api_key=OPENAI_API_KEY
-            )
-            # Test to get dimension
-            test_emb = self.embedding_service.embed_query("test")
-            self.embedding_dim = len(test_emb)
-            logger.info(f"Using OpenAI embeddings (dim={self.embedding_dim})")
+        # Initialize local embedding service
+        try:
+            self.embedding_service = LocalEmbeddingService()
+            self.embedding_dim = self.embedding_service.get_dimension()
+            logger.info(f"Using local embeddings (dim={self.embedding_dim})")
+        except Exception as e:
+            logger.error(f"Failed to initialize local embeddings: {e}")
+            raise
 
         # Document processor
         self.processor = CVDocumentProcessor(
@@ -177,14 +164,9 @@ class IngestionWorker:
 
         logger.debug(f"Generated {len(chunks)} chunks from {path.name}")
 
-        # Generate embeddings
+        # Generate embeddings using local model
         texts = [chunk.page_content for chunk in chunks]
-
-        if USE_LOCAL_EMBEDDINGS:
-            embeddings = self.embedding_service.embed_batch(texts)
-        else:
-            # OpenAI batch embedding
-            embeddings = self.embedding_service.embed_documents(texts)
+        embeddings = self.embedding_service.embed_batch(texts)
 
         logger.debug(f"Generated {len(embeddings)} embeddings")
 

@@ -155,8 +155,11 @@ class LocalEmbeddingService:
         }
 
 
-# Convenience function matching OpenAI API style
-class LocalEmbeddings:
+# LangChain-compatible embeddings wrapper
+from langchain_core.embeddings import Embeddings
+
+
+class LocalEmbeddings(Embeddings):
     """LangChain-compatible wrapper for local embeddings."""
 
     def __init__(self, service: Optional[LocalEmbeddingService] = None):

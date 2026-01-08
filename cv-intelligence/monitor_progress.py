@@ -146,7 +146,8 @@ def main():
             qdrant_url=args.qdrant_url,
             api_key=QDRANT_API_KEY,
             collection_name=QDRANT_COLLECTION,
-            use_local=False
+            use_local=False,
+            init_embeddings=False  # Stats only, no embeddings needed
         )
     except Exception as e:
         print(f"Error: Failed to connect to services: {e}")

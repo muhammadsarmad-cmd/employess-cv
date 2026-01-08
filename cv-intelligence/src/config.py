@@ -13,10 +13,9 @@ DATA_DIR = BASE_DIR / "data"
 SAMPLE_CVS_DIR = DATA_DIR / "sample_cvs"
 VECTOR_STORE_DIR = DATA_DIR / "vector_store"
 
-# OpenAI (for LLM queries, optional for embeddings)
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-EMBEDDING_MODEL = os.getenv("EMBEDDING_MODEL", "text-embedding-3-small")
-LLM_MODEL = os.getenv("LLM_MODEL", "gpt-4o")
+# Gemini (for LLM queries, optional for embeddings)
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+LLM_MODEL = os.getenv("LLM_MODEL")
 
 # Qdrant Configuration
 QDRANT_URL = os.getenv("QDRANT_URL", "http://localhost:6333")

@@ -1,11 +1,11 @@
 """Query engine for CV search and comparison."""
 
 from typing import List, Dict, Any, Optional
-from langchain_openai import ChatOpenAI
+from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.documents import Document
 from langchain_core.prompts import ChatPromptTemplate
 
-from .config import OPENAI_API_KEY, LLM_MODEL
+from .config import GEMINI_API_KEY, LLM_MODEL
 from .vector_store import CVVectorStore, load_cv_vectorstore
 
 
@@ -14,9 +14,9 @@ class CVQueryEngine:
 
     def __init__(self, vector_store: Optional[CVVectorStore] = None):
         self.vector_store = vector_store or load_cv_vectorstore()
-        self.llm = ChatOpenAI(
+        self.llm = ChatGoogleGenerativeAI(
             model=LLM_MODEL,
-            openai_api_key=OPENAI_API_KEY,
+            google_api_key=GEMINI_API_KEY,
             temperature=0
         )
 

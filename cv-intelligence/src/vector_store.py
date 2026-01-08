@@ -6,7 +6,6 @@ import uuid
 import logging
 
 from langchain_core.documents import Document
-from langchain_openai import OpenAIEmbeddings
 from langchain_qdrant import QdrantVectorStore
 from qdrant_client import QdrantClient
 from qdrant_client.models import (
@@ -16,9 +15,10 @@ from qdrant_client.models import (
 )
 
 from .config import (
-    OPENAI_API_KEY, EMBEDDING_MODEL, QDRANT_URL,
+    GEMINI_API_KEY, QDRANT_URL,
     QDRANT_COLLECTION, QDRANT_API_KEY, USE_LOCAL_QDRANT
 )
+from .embedding_service import LocalEmbeddings, LocalEmbeddingService
 
 logger = logging.getLogger(__name__)
 
@@ -31,19 +31,22 @@ class CVVectorStore:
         collection_name: str = QDRANT_COLLECTION,
         use_local: bool = USE_LOCAL_QDRANT,
         qdrant_url: str = QDRANT_URL,
-        api_key: Optional[str] = QDRANT_API_KEY
+        api_key: Optional[str] = QDRANT_API_KEY,
+        embeddings: Optional[LocalEmbeddings] = None,
+        init_embeddings: bool = True
     ):
         self.collection_name = collection_name
         self.use_local = use_local
         self.qdrant_url = qdrant_url
 
-        # Initialize embeddings (for backward compatibility)
-        self.embeddings = None
-        if OPENAI_API_KEY:
-            self.embeddings = OpenAIEmbeddings(
-                model=EMBEDDING_MODEL,
-                openai_api_key=OPENAI_API_KEY
-            )
+        # Initialize local embeddings for queries if not provided
+        if embeddings is not None:
+            self.embeddings = embeddings
+        elif init_embeddings:
+            logger.info("Initializing local embeddings for vector store...")
+            self.embeddings = LocalEmbeddings()
+        else:
+            self.embeddings = None
 
         # Initialize Qdrant client (shared instance)
         if use_local:
@@ -205,7 +208,7 @@ class CVVectorStore:
             return {
                 "name": self.collection_name,
                 "points_count": info.points_count,
-                "vectors_count": info.vectors_count,
+                "vectors_count": getattr(info, 'vectors_count', info.points_count),
                 "status": info.status
             }
         except Exception as e:
@@ -373,10 +376,10 @@ class CVVectorStore:
             return {
                 "name": self.collection_name,
                 "points_count": info.points_count,
-                "vectors_count": info.vectors_count,
-                "indexed_vectors_count": info.indexed_vectors_count,
-                "status": info.status.value,
-                "segments_count": len(info.segments) if info.segments else 0,
+                "vectors_count": getattr(info, 'vectors_count', info.points_count),
+                "indexed_vectors_count": getattr(info, 'indexed_vectors_count', None),
+                "status": info.status.value if hasattr(info.status, 'value') else str(info.status),
+                "segments_count": len(info.segments) if hasattr(info, 'segments') and info.segments else 0,
                 "disk_data_size": getattr(info, 'disk_data_size', None),
                 "ram_data_size": getattr(info, 'ram_data_size', None)
             }
